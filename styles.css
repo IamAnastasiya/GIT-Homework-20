@@ -1,0 +1,9 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: #e6f1e4;
+    max-width: 3000px;
+    width: 100%;
+}
